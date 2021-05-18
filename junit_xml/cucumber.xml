@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="26.825">
+<testcase classname="test HomePage In MM" name="Home Page title test" time="12.299">
+<system-out><![CDATA[Given Display the homepage..................................................passed
+When check the page title...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="test HomePage In MM" name="Home Page search box test" time="14.3">
+<system-out><![CDATA[Given Display the homepage..................................................passed
+When check the search box...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
